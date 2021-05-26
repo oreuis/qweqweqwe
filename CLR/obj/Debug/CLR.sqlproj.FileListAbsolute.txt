@@ -1,0 +1,12 @@
+C:\Users\meowo\source\repos\CLR_POC\CLR\bin\Debug\CLR.dacpac
+C:\Users\meowo\source\repos\CLR_POC\CLR\bin\Debug\CLR.dll
+C:\Users\meowo\source\repos\CLR_POC\CLR\bin\Debug\CLR.pdb
+C:\Users\meowo\source\repos\CLR_POC\CLR\obj\Debug\CLR.dll
+C:\Users\meowo\source\repos\CLR_POC\CLR\obj\Debug\CLR.pdb
+C:\dlls\CLR.dacpac
+C:\dlls\CLR.dll
+C:\dlls\CLR.pdb
+C:\Users\meowo\source\repos\CLR_POC\CLR\obj\Debug\Model.xml
+C:\Users\meowo\source\repos\CLR_POC\CLR\obj\Debug\refactor.xml
+C:\Users\meowo\source\repos\CLR_POC\CLR\obj\Debug\postdeploy.sql
+C:\Users\meowo\source\repos\CLR_POC\CLR\obj\Debug\predeploy.sql
